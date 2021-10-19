@@ -4,4 +4,6 @@ Our website asks the permission of the user before accessing their location.
 After the user grants permission , the location is accessed , and the weather conditions are displayed.
 However , if the user doesn't want their location to be accessed , they can deny and give the location manually.
 Our website displays accurate results in both the cases.
+
+
 Developed By **TANUSHA REDDY GURRAM** and **MACHUPALLI SREE PRAGNA**.

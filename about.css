@@ -46,35 +46,6 @@
     animation-fill-mode: forwards;
   }
 
-  .card2
-  {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    max-width:300px;
-    background-color:white;
-    text-align:center;
-    border-radius:40px;
-    padding-bottom:15px;
-    color: teal;
-    animation: movedown 1s linear 1;
-    animation-delay: 1s;
-    visibility: hidden;
-    animation-fill-mode: forwards;
-  }
-
-@keyframes movedown
-{
-    0%
-    {
-        transform: translateY(-150px);
-        visibility: visible;
-    }
-    100%
-    {
-        transform: translateY(0);
-        visibility: visible;
-    }
-}
-
 @keyframes moveup 
 {
     0%

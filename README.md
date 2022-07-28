@@ -6,4 +6,4 @@ However , if the user doesn't want their location to be accessed , they can deny
 Our website displays accurate results in both the cases.
 
 
-CONTRIBUTORS : **TANUSHA REDDY GURRAM** and **MACHUPALLI SREE PRAGNA**.
+CONTRIBUTORS : **TANUSHA REDDY GURRAM**
